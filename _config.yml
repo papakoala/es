@@ -35,12 +35,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Create an environment to foster brain development
-    description                           : The early years are a period of considerable opportunity for growth. Babies who have more sensory experiences are able to develop more brain power.³
+  - title                                 : Crea un entorno para fomentar el desarrollo del cerebro
+    description                           : Los primeros años son un período de grandes oportunidades para el crecimiento. Los bebés que tienen más experiencias sensoriales son capaces de desarrollar una mayor capacidad mental.
     fontawesome_icon_name                 : brain
     
-  - title                                 : Provide early sensory experiences
-    description                           : Stimulating sensory experiences activate certain neural synapses, and this triggers growth processes that consolidate those connections. Synapses that are not activated progressively wither over time. 
+  - title                                 : Ofrece experiencias sensoriales tempranas
+    description                           : Las estimulación sensorial temprana, activa multitud de sinapsis neuronales y desencadena procesos de crecimiento que consolidan esas conexiones. Las sinapsis que no se activan se marchitan progresivamente con el tiempo.
     fontawesome_icon_name                 : baby
 
   - title                                 : #Develop more brain power
@@ -51,8 +51,8 @@ features                                  :
     description                           : #These are the most essential catalysts for feats of intellectual growth. Healthy brain development relies on people to provide the stimulation that organizes connections in the cortex for language and complex thought.
     fontawesome_icon_name                 : #heart
 
-  - title                                 : Develop deep attachments
-    description                           : Of all the sensory experiences, touch is how infants first know they are loved. PapaKoala’s touch activities help build a sense of trust and feel attached to one another.
+  - title                                 : Fortalece el vínculo emocional
+    description                           : De todas las experiencias sensoriales, el tacto es la primera forma en que los bebés sienten que son queridos. Las actividades de PapaKoala fomentan la confianza y el apego entre tú y tu bebé.
     fontawesome_icon_name                 : heart
 
   - title                                 : #From birth through age one

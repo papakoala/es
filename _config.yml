@@ -14,7 +14,7 @@ app_icon                                  : assets/appicon.png                  
 app_name                                  : PapaKoala                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_subtitle                              : Ejercicios de estimulación temprana para bebés.
-app_description                           : Los primeros años son el momento de mayor importancia para un cerebro en desarrollo. Este periodo intenso de crecimiento neuronal y de capacidad para crear conexiones sólo ocurre una vez en la vida. Como padres y cuidadores, tenemos esta breve y única oportunidad de ayudar a fomentar la formación de estas conexiones en nuestros bebés. <br /><br />La app PapaKoala lo hace fácil ofreciéndote actividades basadas en videos cortos con explicaciones sencillas para promover el desarrollo de tu bebé. <br /><br />Mediante un pago único, no encontrarás compras dentro dentro de la app ni suscripciones. Actividades adicionales desde el primer hasta el segundo año se harán disponibles en una futura actualización de la aplicación.
+app_description                           : Los primeros años son el momento de mayor importancia para un cerebro en desarrollo. Este periodo intenso de crecimiento neuronal y de capacidad para crear conexiones sólo ocurre una vez en la vida. Como padres y cuidadores, tenemos esta breve y única oportunidad de ayudar a fomentar la formación de estas conexiones en nuestros bebés. <br /><br />La app PapaKoala lo hace fácil ofreciéndote actividades basadas en videos cortos con explicaciones sencillas para promover el desarrollo de tu bebé durante su primer año. <br /><br />Mediante un pago único, no encontrarás compras dentro de la app ni suscripciones. Nuevas actividades desde el primer hasta el segundo año serán disponibles de manera gratuita en una futura actualización de la aplicación.
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
@@ -101,14 +101,14 @@ footer_text_color                         : "#000000"
 
 
 # Google services
-google_analytics: UA-180082157-1
+google_analytics: G-JTRVK8NJR7
 
 
 
 # SEO
 title: PapaKoala
-tagline: Early stimulation exercises for babies made easy
-description: Early stimulation activities for babies to foster brain development, provide early sensory experiences and build a sense of trust.
+tagline: Ejercicios de estimulación temprana para bebés
+description: Ejercicios de estimulación temprana para bebés para promover el desarrollo neuronal, propocionar estimulación sensorial temprana y construir confianza.
 # url: papakoala.com
 twitter: unpapakoala
 

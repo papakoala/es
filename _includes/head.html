@@ -21,7 +21,11 @@
 	
 	<link rel="stylesheet" href="https://gencat.github.io/ICGC-Cookie-GDPR/dist/cookies-icgc.min.css">
 	<script src="https://gencat.github.io/ICGC-Cookie-GDPR/dist/cookies-icgc.js"></script>
-	
+	<script>
+	const cuqui = new icgc.CookiesICGC("127.0.0.1", ["UA-12345678-1"]);
+	cuqui.setCookiesEnabledHandler(() => { console.log("Cookies enabled")});
+	cuqui.setCookiesDisabledHandler(() => { console.log("Cookies disabled")});
+	</script>
 	
 {% include analytics.html %}
 

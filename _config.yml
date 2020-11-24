@@ -2,7 +2,7 @@
 page_title                                :  PapaKoala - Estimulación temparana para bebés hecha fácil # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1540490806                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -10,8 +10,8 @@ presskit_download_link                    :                                     
                                                                                     # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 spanish_page_link                         : https://es.papakoala.com                                                                                      
 english_page_link                         : https://papakoala.com
-app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : PapaKoala                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_icon                                  :                   # assets/appicon.png    Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  :                                           # PapaKoala Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_subtitle                              : Ejercicios de estimulación temprana para bebés.
 app_description                           : Los primeros años son el momento de mayor importancia para un cerebro en desarrollo. Este periodo intenso de crecimiento neuronal y de capacidad para crear conexiones sólo ocurre una vez en la vida. Como padres y cuidadores, tenemos esta breve y única oportunidad de ayudar a fomentar la formación de estas conexiones en nuestros bebés. <br /><br />La app PapaKoala lo hace fácil ofreciéndote actividades basadas en videos cortos con explicaciones sencillas para promover el desarrollo de tu bebé durante su primer año. <br /><br /> Sin anuncios. Un único pago. Sin compras ni suscripciones dentro de la app.

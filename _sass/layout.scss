@@ -279,8 +279,6 @@ nav > ul li a:active {
 
 .appName {
 	color: $app-title-color;
-	justify-content: center;
-
 }
 
 .appPrice {
@@ -289,7 +287,7 @@ nav > ul li a:active {
 	margin-top: 13px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 9768px) {
 
 	.appNamePriceContainer {
 		width: 100%;

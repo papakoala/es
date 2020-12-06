@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
 spanish_page_link                         : https://es.papakoala.com                                                                                      
 english_page_link                         : https://papakoala.com
 app_icon                                  :                   # assets/appicon.png    Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : 'PapaKoala: Estimulación temprana'          #  Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : 'PapaKoala: Juegos y desarrollo para bebes'          #  Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 4.49€                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_subtitle                              : Ejercicios de estimulación temprana para bebés.
 app_description                           : Los primeros años son el momento de mayor importancia para un cerebro en desarrollo. Este periodo intenso de crecimiento neuronal y de capacidad para crear conexiones sólo ocurre una vez en la vida. Como padres y cuidadores, tenemos esta breve y única oportunidad de ayudar a fomentar la formación de estas conexiones en nuestros bebés. <br /><br />La app PapaKoala lo hace fácil ofreciéndote actividades basadas en videos cortos con explicaciones sencillas para promover el desarrollo de tu bebé durante su primer año. <br /><br /> Sin anuncios. Un único pago. Sin compras ni suscripciones dentro de la app.
@@ -106,9 +106,9 @@ google_analytics: G-JTRVK8NJR7
 
 
 # SEO
-title: 'PapaKoala: Estimulación temparana para bebés hecha fácil'
+title: 'PapaKoala: Juegos y desarrollo para bebes hecho fácil'
 tagline: Ejercicios de estimulación temprana para bebés
-description: Ejercicios de estimulación temprana para bebés para promover el desarrollo neuronal, propocionar estimulación sensorial temprana y construir confianza.
+description: Ejercicios y juegos de estimulación temprana para bebés para promover el desarrollo neuronal, propocionar estimulación sensorial temprana y construir confianza.
 # url: papakoala.com
 twitter: unpapakoala
 

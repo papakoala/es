@@ -259,6 +259,7 @@ nav > ul li a:active {
 .appIconShadow {
 	display: flex;
 	filter: $drop-shadow;
+	justify-content: center;
 }
 
 .appIconLarge {
@@ -266,6 +267,7 @@ nav > ul li a:active {
 	height: 120px;
 	-webkit-clip-path: url(#shape120);
 	clip-path: url(#shape120);
+	justify-content: center;
 }
 
 .appNamePriceContainer {

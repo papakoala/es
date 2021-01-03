@@ -11,9 +11,9 @@ presskit_download_link                    :                                     
 spanish_page_link                         : https://es.papakoala.com                                                                                      
 english_page_link                         : https://papakoala.com
 app_icon                                  :                   # assets/appicon.png    Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : 'PapaKoala: Juegos y desarrollo para bebés'          #  Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : 'PapaKoala: Estimulación temprana para bebés'          #  Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Gratis                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_subtitle                              : Ejercicios de estimulación temprana para bebés de 0 a 1 año.
+app_subtitle                              : Juegos y desarrollo para bebés de 0 a 1 año.
 app_description                           : Los primeros años son el momento de mayor importancia para un cerebro en desarrollo. Este periodo de intenso crecimiento neuronal y creación de conexiones sólo ocurre una vez en la vida. Como padres y cuidadores, tenemos esta breve y única oportunidad de ayudar a fomentar la formación de estas conexiones en nuestros bebés. <br /><br />La app PapaKoala lo hace fácil ofreciéndote actividades basadas en videos cortos con explicaciones sencillas para promover el desarrollo de tu bebé durante su primer año.
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 

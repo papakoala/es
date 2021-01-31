@@ -8,11 +8,10 @@ include_in_header: false
 2 de enero de 2021
 
 # PapaKoala App para iOS
-La aplicación PapaKoala es una aplicación gratuita con soporte de anuncios. Esta política de privacidad describe cómo se maneja su información personal en PapaKoala para iOS.
 
 # Recopilación y uso de la información
 
-La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarle:
+La aplicación utiliza servicios de terceros que pueden recopilar información:
 
 ## Proveedor de pago
 
@@ -23,33 +22,6 @@ La Política de Privacidad de Apple se puede encontrar aquí https://www.apple.c
 
 La aplicación utiliza Revenue Cat como plataforma de suscripción in-app para gestionar las compras in-app. 
 La política de privacidad de RevenueCat se puede encontrar aquí https://www.revenuecat.com/gdpr 
-
-## Publicidad
-La App utiliza Google AdMob para publicar anuncios para la versión gratuita de la App. AdMob, es la plataforma publicitaria de Google para aplicaciones móviles diseñada específicamente para desarrolladores.  Google puede utilizar la identificación de la publicidad del dispositivo en el que sirve el anuncio para generar intereses y demografía (por ejemplo, "entusiastas del deporte"). Los intereses, la demografía y otros datos pueden utilizarse para publicar anuncios mejor orientados al usuario. Puedes optar por no incluir anuncios personalizados aquí https://www.google.com/settings/ads  
-
-Google AdMob colecciona: 
-
-* Identificadores en línea, incluidos los identificadores de cookies
-* Direcciones IP
-* Identificadores del dispositivo
-* Identificadores de clientes 
-* Identificadores de dispositivos únicos para la publicidad (Google Advertiser ID o IDFA, por ejemplo)
-* Datos de uso
-* Localización
-
-Recursos en línea:
-* Política de privacidad https://www.google.com/policies/technologies/ads/
-* Optar por no participar https://www.google.com/settings/ads 
-* Información de servicio https://privacy.google.com/businesses/adsservices/
-* Política de socios https://policies.google.com/technologies/partner-sites
-* Proveedores de tecnología publicitaria https://support.google.com/admob/answer/9012903
-
-Google utiliza la información recopilada para proporcionar, mantener, proteger y mejorar los servicios de Google, para desarrollar nuevos servicios y para proteger a Google y a los usuarios. Google también utiliza esta información para ofrecerte contenido personalizado, como por ejemplo, para ofrecerte resultados de búsqueda y anuncios más relevantes.
-
-Recursos online:
-* Condiciones de servicio de Google https://policies.google.com/terms
-* Política de privacidad de Google https://policies.google.com/privacy
-
 
 ## Datos de iCloud 
 La aplicación almacena algunos de tus datos en el servicio iCloud de Apple para permitir las funciones de sincronización entre todos los dispositivos conectados a tu ID de Apple. No podemos acceder a los datos guardados en iCloud. 
